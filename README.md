@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols (including the < >)._
 
 ## SUMMARY OF LATE POLICY FOR THE COURSE:
- < Provide a  description of the courses late policy >
+ When grace days are not used, 10% of the possible score will be deducted for every 24 hours the assignment is late. Old assignments can be submitted or resubmitted for 50% credit. 
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ None
 
 ## REFERENCES:
- < List any outside resources used >
+ None
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ None
